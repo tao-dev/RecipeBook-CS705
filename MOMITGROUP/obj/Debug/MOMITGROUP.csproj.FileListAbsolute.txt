@@ -1,0 +1,6 @@
+c:\users\sheikh\documents\visual studio 2013\Projects\MOMITGROUP\MOMITGROUP\bin\Debug\MOMITGROUP.exe.config
+c:\users\sheikh\documents\visual studio 2013\Projects\MOMITGROUP\MOMITGROUP\obj\Debug\MOMITGROUP.csprojResolveAssemblyReference.cache
+c:\users\sheikh\documents\visual studio 2013\Projects\MOMITGROUP\MOMITGROUP\bin\Debug\MOMITGROUP.exe
+c:\users\sheikh\documents\visual studio 2013\Projects\MOMITGROUP\MOMITGROUP\bin\Debug\MOMITGROUP.pdb
+c:\users\sheikh\documents\visual studio 2013\Projects\MOMITGROUP\MOMITGROUP\obj\Debug\MOMITGROUP.exe
+c:\users\sheikh\documents\visual studio 2013\Projects\MOMITGROUP\MOMITGROUP\obj\Debug\MOMITGROUP.pdb

@@ -1,0 +1,6 @@
+c:\users\sheikh\documents\visual studio 2013\Projects\MOMITGROUP\MOMITGROUP\bin\Release\MOMITGROUP.exe.config
+c:\users\sheikh\documents\visual studio 2013\Projects\MOMITGROUP\MOMITGROUP\bin\Release\MOMITGROUP.exe
+c:\users\sheikh\documents\visual studio 2013\Projects\MOMITGROUP\MOMITGROUP\bin\Release\MOMITGROUP.pdb
+c:\users\sheikh\documents\visual studio 2013\Projects\MOMITGROUP\MOMITGROUP\obj\Release\Amanda_Recipe_Book.csprojResolveAssemblyReference.cache
+c:\users\sheikh\documents\visual studio 2013\Projects\MOMITGROUP\MOMITGROUP\obj\Release\MOMITGROUP.exe
+c:\users\sheikh\documents\visual studio 2013\Projects\MOMITGROUP\MOMITGROUP\obj\Release\MOMITGROUP.pdb

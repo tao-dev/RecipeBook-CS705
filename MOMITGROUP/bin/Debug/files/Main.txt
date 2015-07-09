@@ -1,0 +1,11 @@
+		********Screen Main Menu********
+		  Amanda's Awesome Recipe Menu
+
+		Choose a Dessert of Your Choice:
+			1. Peanut Butter Cookie
+			2. Khapse
+			3. Biscohito 
+			4. Half-Moon Cookie
+			5. Bredele
+			6. Exit Menu
+		Please Place Your Order 
